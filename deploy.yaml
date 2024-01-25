@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: hkoti300/capstone2:latest
+        image: hkoti300/capstone:latest
         ports:
         - containerPort: 80
